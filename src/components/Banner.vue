@@ -30,7 +30,7 @@ export default {
 <style lang="scss" scoped>
 #main-banner{
     background-image: url("../assets/img/ba1.svg");
-    background-position: 0 -630px;
+    background-position: 0 -250px;
     background-size: cover;
     height: 650px;
     display: flex;
@@ -68,7 +68,7 @@ form{
     background-color: rgb(248, 243, 243);
     font-size: 20px;
     padding: 1%;
-    margin: 20%;
+    margin: 1%;
 
 
     
